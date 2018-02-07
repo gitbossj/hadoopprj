@@ -7,7 +7,7 @@ import org.apache.hadoop.io.IOUtils;
 import java.io.InputStream;
 import java.net.URI;
 //test
-
+//nee
 public class HadoopTest {
     public static void main(String[] args) throws Exception {
         /**指定本地HADOOP程序目录*/
